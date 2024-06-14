@@ -1,5 +1,5 @@
 # h5-魔塔
-
+计算攻防转换后的耗血量和耗血最低时的攻防
 ## 游戏链接
 https://h5mota.com/tower/?name=51_biao_zhao_yun
 ## 使用
